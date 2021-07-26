@@ -1,5 +1,7 @@
 # New-World-Server-Status-Scraper
 
+![example](https://i.imgur.com/Rj4a2EB.png)
+
  Requirements:
 -  python
 -  pip
